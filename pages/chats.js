@@ -34,7 +34,7 @@ export default function Chats() {
       <div className="shadow">
         <ChatEngine
          height='calc(100vh - 200px)'
-         projectID ='7760f6b4-a5f3-48f4-845e-fbec9741a91b'
+         projectID ='7d5a9cad-84b7-4c9c-b3c5-b5bea57752b9'
          userName={username}
          userSecret={secret}
          />
